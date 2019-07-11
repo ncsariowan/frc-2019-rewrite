@@ -1,0 +1,1 @@
+Making an FRC project -- from scratch. No WPILib extension, no util classes. A quest to make the most modular robot code ever. 
